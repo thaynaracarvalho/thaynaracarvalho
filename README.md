@@ -1,11 +1,9 @@
-👩‍💻 Dev em construção | Criando projetos e transformando ideias em código ✨
+👩‍💻 Dev em construção | Bacharel em Sistemas de Informação | Pós-graduanda em Ciência de Dados 📊✨
 
-📚 Estudando Python, JavaScript, HTML, CSS e desenvolvimento web
+🚀 Interessada por tecnologia, dados, inteligência artificial e desenvolvimento de soluções criativas
 
-💖 Interessada em tecnologia, inteligência artificial e interfaces criativas
+📚 Estudando e criando projetos com Python, SQL, Machine Learning e desenvolvimento web
 
-🚀 Atualmente desenvolvendo projetos como Weather App ☁️, Pomodoro Timer ⏰ e Random Quote Machine ✨
+💖 Amo falar sobre séries, filmes, universo de Harry Potter ✨ e claro… programação!
 
-🌟 Geek lover: GOT, Star Wars 👽, Senhor dos Anéis 💍 e tudo que envolve ficção e tecnologia
-
-☕ Não existe bug que um café não ajude a resolver
+☕ Café + código + música = meu ambiente perfeito
